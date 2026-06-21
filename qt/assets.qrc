@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="assets/powertrain_scheme2.png">../powertrain_scheme2.png</file>
+        <file alias="assets/app_icon.jpg">../app_icon.jpg</file>
+        <file alias="assets/top_view.png">../top_view.png</file>
+        <file alias="assets/top_view_awd.jpg">../top_view_awd.jpg</file>
+    </qresource>
+</RCC>
